@@ -4,9 +4,11 @@ Blawx開発を補助するブックマークレット
 
 Bookmarklets to support Blawx development (unofficial)
 
-# About / 概要
+![Copy blocks](./images/blawx_bookmarklet_copy.gif)
 
-（TODO: insert gif）
+![Paste blocks](./images/blawx_bookmarklet_paste.gif)
+
+# About / 概要
 
 BlawxのコードブロックをXML形式でコピー、貼り付けできるブックマークレットです。以下の用途等にご活用ください。
 
@@ -68,14 +70,14 @@ How to register
 登録方法
 - 1. `Ctrl + Shift + O` 同時押しでお気に入りを開く
 - 2. 表示された `お気に入り` という文字をクリックしお気に入りページを開く
-- 3. 上部 `お気に入りを追加` を選択
+- 3. 上部 `お気に入りを追加` （または `★` マーク）を選択
 - 4. `名前` に分かりやすい名前（例: `BlawxブロックをXML形式テキストにコピー`）、`URL` に上記のJavaScriptコードを指定し保存
     - `https://` から始まっていませんがURL欄に登録可能です
 
 How to register
 - 1. Open favorites by pressing `Ctrl + Shift + O`
 - 2. Click text `Favorites` to open the favorite page
-- 3. Select `Add favorite` at the top
+- 3. Select `Add favorite` (or `★` icon) at the top
 - 4. Set description to `name` and the JavaScript snippet above to `URL`
     - It does not start with `https://`, but can be entered in the URL field.
 
